@@ -1,3 +1,8 @@
- Notes
-testing 123
-3456
+2018-06-03 - Study & Code session
+
+
+Tasks completed:
+
+- Setup GitHub repo for codewars_dot_^_^_py
+- Setup atom editor to work with it too
+- Ensured that course work files sync to local repo
